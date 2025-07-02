@@ -12,7 +12,7 @@ body{background: url(dv\ vnfg.jpg);
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: rgb(102, 71, 131);
+    background-color: rgb(170, 144, 194);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33%-6rem);
@@ -21,12 +21,12 @@ body{background: url(dv\ vnfg.jpg);
 .cartao__conteudo{
     text-align: center;
     height: 100%;
-    background-color: rgb(102, 71, 131);
+    background-color: rgb(160, 136, 182);
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
 }
 .cartao__conteudo h3{
-    background-color:rgb(62, 46, 77);
+    background-color:rgb(178, 155, 199);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
